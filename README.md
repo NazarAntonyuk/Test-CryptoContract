@@ -1,0 +1,2 @@
+# Test-CryptoContract
+перевірка функцій 
